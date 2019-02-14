@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/ec500-software-engineering/exercise-2-ffmpeg-jingli18.svg?branch=master)](https://travis-ci.com/ec500-software-engineering/exercise-2-ffmpeg-jingli18)
+
 # exercise-2-ffmpeg-jingli18
 exercise-2-ffmpeg-jingli18 created by GitHub Classroom  
 # ffmpeg-subprocess  
