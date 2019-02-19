@@ -2,6 +2,7 @@ import subprocess
 import threading
 from queue import Queue
 
+#main function
 def call_F(q, m):
 	file1 = '480' + str(m) + '.mp4'
 	file2 = '720' + str(m) + '.mp4'		
