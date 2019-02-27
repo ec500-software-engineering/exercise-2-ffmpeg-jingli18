@@ -1,6 +1,5 @@
 from myffmpeg import ffprobe as probe
 from myffmpeg import convert as convert
-from pytest import approx
 
 def test_duration():
     fnin = 'test.mp4'
