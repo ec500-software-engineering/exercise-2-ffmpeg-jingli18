@@ -14,7 +14,7 @@ def ffprobe(file_name) -> dict:
 
                     
 	return json.loads(meta)
-
+#comvert video
 def convert(vidin, vidout, fbl):
 	r = subprocess.call([
 			'ffmpeg', 
