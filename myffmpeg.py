@@ -1,5 +1,5 @@
 import subprocess
-from pathlib import Path
+import json
 
 def ffprobe(file_name) -> dict:
 	""" get media metadata """
